@@ -6,9 +6,9 @@ Generate passwords for macOSX.
 
 Currently `pg` does not have cross-platform support. Eventually, `pg` will be
 supported in these places (at least)
-[ ] chocolatey
-[ ] homebrew
-[ ] cargo
+-  chocolatey
+-  homebrew
+-  cargo
 
 ## License
 
